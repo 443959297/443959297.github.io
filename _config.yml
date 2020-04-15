@@ -1,23 +1,23 @@
 # Basic
-title: Sieg
+title: 李敏
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: Sieg
+avatarTitle: 李敏
 # 头像里面的描述
 avatarDesc: java / 机器学习
-url: "hhttps://siegfriedrich.github.io/"
+url: "hhttps://443959297.github.io/"
 
 # Comment
 comment:
-    disqus: sieg
+    disqus: 李敏
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    github: siegfriedrich
+    github: 443959297
     # twitter:
-    mail: evremonde@icloud.com
+    mail: 443959297@qq.com
 
 # 百度统计
 # 使用博客模板请去掉或者更换 id
